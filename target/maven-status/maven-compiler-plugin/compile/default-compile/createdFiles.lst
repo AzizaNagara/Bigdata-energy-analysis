@@ -1,0 +1,9 @@
+tn/insat/SectorOnlyJob$Reduce.class
+tn/insat/SectorYearJob$Reduce.class
+tn/insat/SectorYearJob.class
+tn/insat/SectorOnlyJob.class
+tn/insat/CommunityAreaJob$Reduce.class
+tn/insat/SectorOnlyJob$Map.class
+tn/insat/CommunityAreaJob$Map.class
+tn/insat/SectorYearJob$Map.class
+tn/insat/CommunityAreaJob.class
