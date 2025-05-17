@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -37,6 +40,7 @@
     "Maven.building-analysis [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AZIZA/Desktop/building-analysis",
     "node.js.detected.package.eslint": "true",
@@ -82,6 +86,7 @@
       <workItem from="1747221995382" duration="1424000" />
       <workItem from="1747224032989" duration="919000" />
       <workItem from="1747225238795" duration="7466000" />
+      <workItem from="1747476576910" duration="275000" />
     </task>
     <servers />
   </component>
